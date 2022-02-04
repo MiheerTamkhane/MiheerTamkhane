@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[Full stack development @neogcamp](https://frontendmasters.com/learn/professional/)**
+- 🌱 I’m currently learning **[Full stack development @neogcamp](https://neog.camp/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[tejs.me](https://miheertamkhane.netlify.app)**
+- 👨‍💻 All of my projects are available at **[M.dev](https://miheertamkhane.netlify.app)**
 
 - 📫 How to reach me **sarangtamkhane10@gmail.com**
 
