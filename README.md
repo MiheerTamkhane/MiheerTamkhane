@@ -1,6 +1,6 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="310px">I'm Miheer</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Miheer</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
