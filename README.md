@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I play [Clash of clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en_IN&gl=US) and love to travel.**
 
+- 📝 [Resume/CV](https://drive.google.com/file/d/1CjPba4K1dCFUD7BAJ9CKVwcPNoHi01HH/view?usp=sharing)
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
