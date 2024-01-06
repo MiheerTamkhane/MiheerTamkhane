@@ -5,15 +5,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[Full stack development @neogcamp](https://neog.camp/)**
+- 🌱 I’m currently Working as **Software Developer** [@teamgeeksolutions](https://teamgeeksolutions.com/)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[M.dev](https://miheertamkhane.netlify.app)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://miheertamkhane.netlify.app)**
 
 - 📫 How to reach me **sarangtamkhane10@gmail.com**
 
-- ⚡ Fun fact **I play [Clash of clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en_IN&gl=US) and love to travel.**
+- ⚡ Fun fact **I play Valorant and love to Travel.**
 
 - 📝 [Resume/CV](https://drive.google.com/file/d/1CjPba4K1dCFUD7BAJ9CKVwcPNoHi01HH/view?usp=sharing)
 
