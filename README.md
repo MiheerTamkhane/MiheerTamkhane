@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://miheertamkhane.netlify.app)**
 
-- 📫 How to reach me **sarangtamkhane10@gmail.com**
+- 📫 How to get in touch **sarangtamkhane10@gmail.com**
 
 - ⚡ Fun fact **I play Valorant and love to Travel.**
 
-- 📝 [Resume/CV](https://drive.google.com/file/d/1CjPba4K1dCFUD7BAJ9CKVwcPNoHi01HH/view?usp=sharing)
+- 📝 [Resume/CV](https://miheer.tiiny.site/)
 
 ## 🚀 Languages and Tools:
 
