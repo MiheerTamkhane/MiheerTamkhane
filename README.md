@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://miheertamkhane.netlify.app)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://miheer.netlify.app)**
 
 - 📫 How to get in touch **sarangtamkhane10@gmail.com**
 
