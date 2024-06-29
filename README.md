@@ -1,8 +1,8 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Miheer</h1>
-<h5 align="center">Frontend developer specializing in creating intuitive and visually appealing web experiences with a strong focus on accessibility and user-centered design.
-    Using technologies like ReactJS, Javascript, and Typescript.</h5>
+<h3 align="center">Frontend developer specializing in creating intuitive and visually appealing web experiences with a strong focus on accessibility and user-centered design.
+    Using technologies like ReactJS, Javascript, and Typescript.</h3>
 
 - 🌱 I’m currently Working as **Software Developer** [@teamgeeksolutions](https://teamgeeksolutions.com/)
 
