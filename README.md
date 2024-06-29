@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Miheer</h1>
 <h3 align="center">Frontend developer specializing in creating intuitive and visually appealing web experiences with a strong focus on accessibility and user-centered design.
-    Using technologies like ReactJS, Javascript, and Typescript.</h3>
+    Using technologies like ReactJS, Javascript, and HTML/CSS.</h3>
 
 - 🌱 I’m currently Working as **Software Developer** [@teamgeeksolutions](https://teamgeeksolutions.com/)
 
