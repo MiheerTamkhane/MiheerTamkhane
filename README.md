@@ -4,7 +4,7 @@
 <h3 align="center">Frontend developer specializing in creating intuitive and visually appealing web experiences with a strong focus on accessibility and user-centered design.
     Using technologies like ReactJS, Javascript, and HTML/CSS.</h3>
 
-- 🌱 I’m currently Working as **Software Developer** [@teamgeeksolutions](https://teamgeeksolutions.com/)
+- 🌱 I’m currently working as **Software Developer** [@intangles](https://www.intangles.ai/)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
